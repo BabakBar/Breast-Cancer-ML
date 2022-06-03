@@ -18,7 +18,7 @@ In order to achieve the goal, the following steps are done:
 
 ## About Dataset
 Data can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
-Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The image is a radiograph of the frontal lobe of the breast.
+Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. 
 
 ## [*The code and detailed explanation is on the jupyter file*](https://github.com/BabakBar/Breast-Cancer-ML/blob/main/BreastCancer.ipynb)
 
