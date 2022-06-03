@@ -52,4 +52,4 @@ This type of AI tool has the ability to be accessible 24/7 to serve patients and
 
 [3] UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-[4] [4] Leitat Technologies. MICROINMUNOMAMA Project. Financiado por: Ministerio de Ciencia e Innocación-Agencia Estatal de Investigación/Proyecto RTC2019-007402-1
+[4] Leitat Technologies. MICROINMUNOMAMA Project. Financiado por: Ministerio de Ciencia e Innocación-Agencia Estatal de Investigación/Proyecto RTC2019-007402-1
