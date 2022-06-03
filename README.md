@@ -16,3 +16,11 @@ In order to achieve the goal, following steps are done:
 ## About Dataset
 Data can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The image is a radiograph of the frontal lobe of the breast.
+
+# References
+
+[1] Dubey, A. K., Gupta, U., & Jain, S. (2016). Analysis of k-means clustering approach on the breast cancer Wisconsin dataset. International journal of computer assisted radiology and surgery, 11(11), 2033-2047.
+
+[2] Sayed, S., Ahmed, S., & Poonia, R. (2017, November). Holo entropy enabled decision tree classifier for breast cancer diagnosis using wisconsin (prognostic) data set. In 2017 7th International Conference on Communication Systems and Network Technologies (CSNT) (pp. 172-176). IEEE.
+
+[3] UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
