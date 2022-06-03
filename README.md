@@ -30,7 +30,7 @@ This project aims to show the use of AI in healthcare. We saw how the machine le
 
 # Limitations
 
-While this study delivered meaningful insights, it reflects possible limitations. First, since this project primarily focused on using the ML models, knowledge of in-depth medical factors was excluded, which means we excluded diving into understanding each variable. 
+While this study delivered meaningful insights, it reflects possible limitations. First, since this project primarily focused on using the ML models, knowledge of in-depth medical factors was excluded, which means we ignored diving into understanding each variable. 
 
 The challenges would remain in training and continuous refinement regarding the model development. A trained network is only as good as the data it learned from. For instance, the network’s output will be skewed if the dataset is skewed. If it included only high-resolution pictures of cancer tumors, there is no telling how it would respond to lower-resolution images.
 
